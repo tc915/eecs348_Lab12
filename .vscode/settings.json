@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.css": "tailwindcss",
+        "xstring": "cpp",
+        "iostream": "cpp"
+    }
+}
